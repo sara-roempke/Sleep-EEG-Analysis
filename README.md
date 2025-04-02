@@ -1,5 +1,4 @@
 # Sleep-EEG-Analysis
-# Sleep EEG Analysis
 
 A MATLAB-based pipeline for processing EEG sleep data. The script loads EEG signals, applies preprocessing (filtering & denoising), extracts features, and visualizes results.
 
